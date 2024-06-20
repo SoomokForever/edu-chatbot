@@ -4,3 +4,4 @@ from langchain_teddynote import logging
 logging.langsmith("Oreno Turn")
 print('test hi')
 print('test bye')
+print('test three')
